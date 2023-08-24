@@ -1,0 +1,40 @@
+[
+    {
+        "name":"iphone 6s",
+        "price": 5000,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone X",
+        "price": 10000,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name":"apple watch",
+        "price": 6000,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name":"samsung watch",
+        "price": 5000,
+        "company":"samsung"
+    },
+    {
+        "name":"dell gaming mouse",
+        "price": 4000,
+        "company":"dell"
+    },
+    {
+        "name":"xiaomi earbuds",
+        "price": 5000,
+        "company":"mi"
+    },
+    {
+        "name":"alexa echo",
+        "price": 50000,
+        "company":"amazon"
+    }
+]
